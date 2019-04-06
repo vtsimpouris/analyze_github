@@ -11,4 +11,4 @@ R packages
 ## Running the tests
 Run the file main.R using your R interface.
 Make sure to change your folder path at the top of the main.R file.
-Also make sure you have all the source files and the dataset inside the main.R folder
+Also make sure you have all the source files and the dataset inside the main.R folder.
