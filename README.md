@@ -27,6 +27,7 @@ shows the optimal number.
 ![alt text](https://github.com/vtsimpouris/analyze_github/blob/master/small.jpg)
 
 Table of the groups found:
+
 ![alt text](https://github.com/vtsimpouris/analyze_github/blob/master/clusters.PNG)
 
 An analysis on the Developer group qualities:
