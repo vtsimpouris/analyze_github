@@ -22,6 +22,12 @@ The following is a distribution of the projects based on the people working on t
 ![alt text](https://github.com/vtsimpouris/analyze_github/blob/master/project_distr.jpg)
 
 Clustering using kmeans was used to idenitfy different groups inside the dataset.
-The following graph shows the cohesion measured for diiferent number of teams. The line 
+The following graph shows the cohesion measured for diiferent number of clusters. The line 
 shows the optimal number.
 ![alt text](https://github.com/vtsimpouris/analyze_github/blob/master/small.jpg)
+
+Table of the groups found:
+![alt text](https://github.com/vtsimpouris/analyze_github/blob/master/clusters.PNG)
+
+An analysis on the Developer group qualities:
+![alt text](https://github.com/vtsimpouris/analyze_github/blob/master/table.PNG)
