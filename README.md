@@ -5,6 +5,7 @@ succesffuly idenitfy the key developers behind each project and their roles in i
 ### Prerequisites
 R language
 * [R-download](https://www.r-project.org/)
+
 R packages
 * [R-dplyr](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8)
 * [R-cluster](https://www.rdocumentation.org/packages/cluster/versions/2.0.7-1)
