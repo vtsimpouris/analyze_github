@@ -13,8 +13,15 @@ R packages
 Run the file main.R using your R interface.
 Make sure to change your folder path at the top of the main.R file.
 Also make sure you have all the source files and the dataset inside the main.R folder.
+## System overview
+![alt text](https://github.com/vtsimpouris/analyze_github/blob/master/flow.PNG)
 ## Results
 Some results are presented below. For furthur details see the report.pdf
 
 The following is a distribution of the projects based on the people working on them:
 ![alt text](https://github.com/vtsimpouris/analyze_github/blob/master/project_distr.jpg)
+
+Clustering using kmeans was used to idenitfy different groups inside the dataset.
+The following graph shows the cohesion measured for diiferent number of teams. The line 
+shows the optimal number.
+![alt text](https://github.com/vtsimpouris/analyze_github/blob/master/small.jpg)
