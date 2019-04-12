@@ -13,3 +13,6 @@ R packages
 Run the file main.R using your R interface.
 Make sure to change your folder path at the top of the main.R file.
 Also make sure you have all the source files and the dataset inside the main.R folder.
+## Results
+The following is a distribution of the projects based on the people working on them:
+![alt text](https://github.com/vtsimpouris/analyze_github/blob/master/project_distr.jpg)
